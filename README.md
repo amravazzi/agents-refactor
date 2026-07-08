@@ -1,7 +1,7 @@
 # AGENTS refactor prompts
 
 ## 1. Use Claude Sonnet 5 to read the giant legacy AGENTS.md and `docs/agents/` and produce an audit.
-You are a senior agent-harness engineer and staff frontend architect.
+You are a senior agent-harness engineer and staff architect.
 
 Task: Audit these legacy AGENTS.md and `docs/agents/` files. Do not rewrite them yet.
 
